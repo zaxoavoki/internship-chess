@@ -1,0 +1,28 @@
+{
+  "name": "internship-chess",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Chess game with custom rules as an internship task",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaxoavoki/internship-chess.git"
+  },
+  "keywords": [
+    "chess",
+    "js",
+    "heroku"
+  ],
+  "author": "Volodymyr Zakhovaiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaxoavoki/internship-chess/issues"
+  },
+  "homepage": "https://github.com/zaxoavoki/internship-chess#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
